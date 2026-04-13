@@ -35,9 +35,13 @@ export const Route = createRootRoute({
       { name: "description", content: "Marterra: innovative, sustainable, and ecological solutions for contamination prevention and control." },
       { name: "author", content: "Marterra" },
       { property: "og:title", content: "Marterra — Environmental Protection Solutions" },
-      { property: "og:description", content: "Innovative, sustainable, and ecological solutions for contamination prevention and control." },
+      { property: "og:description", content: "Marterra: innovative, sustainable, and ecological solutions for contamination prevention and control." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "Marterra — Environmental Protection Solutions" },
+      { name: "twitter:description", content: "Marterra: innovative, sustainable, and ecological solutions for contamination prevention and control." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c75a5344-2d9a-4488-b2b1-cd716e354faa/id-preview-331dd0d2--c42c8d82-a56b-453f-9922-7e1cb1fe59a2.lovable.app-1776074340616.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c75a5344-2d9a-4488-b2b1-cd716e354faa/id-preview-331dd0d2--c42c8d82-a56b-453f-9922-7e1cb1fe59a2.lovable.app-1776074340616.png" },
     ],
     links: [
       {
